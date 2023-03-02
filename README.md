@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/updwnheadlights" target="blank"><img src="https://img.shields.io/twitter/follow/updwnheadlights?logo=twitter&style=for-the-badge" alt="updwnheadlights" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ayushdesai.carrd.co/](https://ayushdesai.carrd.co/)
+- 👨‍💻 All of my projects are available at [https://ayushdesai.carrd.co/](ayush)
 
 - 📫 How to reach me **ayushsdesai97@gmail.com**
 
