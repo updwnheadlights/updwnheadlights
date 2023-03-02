@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/updwnheadlights" target="blank"><img src="https://img.shields.io/twitter/follow/updwnheadlights?logo=twitter&style=for-the-badge" alt="updwnheadlights" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ayushdesai.carrd.co/](ayush)
+- 👨‍💻 All of my projects are available [here](https://ayushdesai.carrd.co/)
 
 - 📫 How to reach me **ayushsdesai97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-3lGBZKmLRCAmdr8SInRge0qAEpad7Wm/view](https://drive.google.com/file/d/1-3lGBZKmLRCAmdr8SInRge0qAEpad7Wm/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-3lGBZKmLRCAmdr8SInRge0qAEpad7Wm/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
