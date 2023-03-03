@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A Web Dev who is currently learning rust.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=updwnheadlights&label=Profile%20views&color=0e75b6&style=flat" alt="updwnheadlights" /> </p>
-
 
 <p align="left"> <a href="https://twitter.com/updwnheadlights" target="blank"><img src="https://img.shields.io/twitter/follow/updwnheadlights?logo=twitter&style=for-the-badge" alt="updwnheadlights" /></a> </p>
 
