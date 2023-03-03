@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A Web Dev who is currently learning rust.</h3>
 
-
-<p align="left"> <a href="https://twitter.com/updwnheadlights" target="blank"><img src="https://img.shields.io/twitter/follow/updwnheadlights?logo=twitter&style=for-the-badge" alt="updwnheadlights" /></a> </p>
-
 - 👨‍💻 All of my projects are available [here](https://ayushdesai.carrd.co/)
 
 - 📫 How to reach me **ayushsdesai97@gmail.com**
