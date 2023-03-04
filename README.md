@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A Web Dev who is currently learning rust.</h3>
+<h3 align="center">I'm a Web Developer. I enjoy learning new things and crafting beautiful front-end experiences.
+
+I also love to do Photography and play video games in my down time.</h3>
 
 - 👨‍💻 All of my projects are available [here](https://ayushdesai.carrd.co/)
 
